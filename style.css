@@ -10,7 +10,7 @@ body{
 .calculator{
     margin-top: 105px;
     background-color: #1C1C1E;
-    width: 250px;
+    width: 255px;
     height: 362px;
     display: flex;
     flex-direction: column;
