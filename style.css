@@ -53,7 +53,7 @@ body{
 .btn-numbers{
     display: flex;
     flex-wrap: wrap;
-    gap: 7px;
+    gap: 6px;
     justify-content: center;
     flex: 3 1 0;
     min-width: 0;
