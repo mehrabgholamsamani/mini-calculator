@@ -153,7 +153,7 @@ elements.clear.onclick = function(){
     elements.display.textContent = show;
     canUseDot = false;
 };
-/////////////////////////////////
+
 
 document.addEventListener("keydown", (e) => {
     const k = e.key;
