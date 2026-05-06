@@ -11,7 +11,6 @@ const elements = {
     num9: document.getElementById("num9"),
     num0: document.getElementById("num0"),
     dot: document.getElementById("dot"),
-    ////FUNCTIONS////
     backspace: document.getElementById("backspace"),
     clear: document.getElementById("clear"),
     plus: document.getElementById("plus"),
