@@ -1,7 +1,6 @@
 const elements = {
     ///DISPLAY///
     display: document.getElementById("display"),
-    ///NUMBERS///
     num1: document.getElementById("num1"),
     num2: document.getElementById("num2"),
     num3: document.getElementById("num3"),
