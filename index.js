@@ -21,7 +21,6 @@ const elements = {
     equal: document.getElementById("equal"),
 };
 
-///////DATA/////////////
 let show = "";
 let canUseDot = false;
 
