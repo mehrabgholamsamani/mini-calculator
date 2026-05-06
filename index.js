@@ -70,7 +70,6 @@ function clearAll() {
     updateDisplay();
 }
 
-///////NUMBERS///////////
 elements.num1.onclick = function(){
     show += "1";
     elements.display.textContent = show;
