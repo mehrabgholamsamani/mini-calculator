@@ -20,6 +20,7 @@ const elements = {
     equal: document.getElementById("equal"),
 };
 
+
 let show = "";
 let canUseDot = false;
 
