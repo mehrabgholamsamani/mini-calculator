@@ -133,7 +133,7 @@ elements.backspace.onclick = function () {
     backspaceOne();
 };
 
-//////FUNCTIONS////////
+
 elements.plus.onclick = function(){
     addOperator("+");
 };
