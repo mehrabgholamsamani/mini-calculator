@@ -268,6 +268,8 @@ elements.equal.onclick = function(){
         }
     }
 
+    
+
     if (!Number.isFinite(numberList[0])) {
         show = "Error";
         canUseDot = false;
