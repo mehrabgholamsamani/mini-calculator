@@ -147,7 +147,7 @@ elements.division.onclick = function(){
     addOperator("÷");
 };
 
-/////////////////////////////////
+
 elements.clear.onclick = function(){
     show = "";
     elements.display.textContent = show;
